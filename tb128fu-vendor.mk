@@ -423,3 +423,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libthermalclient \
     audiosphere
+
+PRODUCT_COPY_FILES += \
+    vendor/lenovo/tb128fu/proprietary/recovery/root/vendor/firmware/Himax_firmware.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/Himax_firmware.bin \
+    vendor/lenovo/tb128fu/proprietary/recovery/root/vendor/firmware/Himax_mpfw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/Himax_mpfw.bin \
+    vendor/lenovo/tb128fu/proprietary/recovery/root/vendor/firmware/hx_criteria.csv:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/hx_criteria.csv
