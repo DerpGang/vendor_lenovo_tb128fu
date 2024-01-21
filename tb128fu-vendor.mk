@@ -205,8 +205,12 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/tb128fu/proprietary/vendor/firmware/a702_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.mdt \
     vendor/lenovo/tb128fu/proprietary/vendor/firmware/aw882xx_pid_2013_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_2013_acf.bin \
     vendor/lenovo/tb128fu/proprietary/vendor/firmware/hx_criteria.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/hx_criteria.csv \
+    vendor/lenovo/tb128fu/proprietary/vendor/firmware/novatek_4th_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_4th_ts_fw.bin \
+    vendor/lenovo/tb128fu/proprietary/vendor/firmware/novatek_4th_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_4th_ts_mp.bin \
+    vendor/lenovo/tb128fu/proprietary/vendor/firmware/novatek_ts_apcf_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_apcf_fw.bin \
     vendor/lenovo/tb128fu/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin \
     vendor/lenovo/tb128fu/proprietary/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_mp.bin \
+    vendor/lenovo/tb128fu/proprietary/vendor/firmware/novatek_ts_apcf_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_apcf_fw.bin \
     vendor/lenovo/tb128fu/proprietary/vendor/firmware/wigig/wigig.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/wigig/wigig.ini \
     vendor/lenovo/tb128fu/proprietary/vendor/lib/hw/audio.primary.bengal.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.bengal.so \
     vendor/lenovo/tb128fu/proprietary/vendor/lib/hw/sound_trigger.primary.bengal.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.bengal.so \
